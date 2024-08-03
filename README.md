@@ -1,0 +1,1 @@
+# Girilen sayı tek olana kadar çift ve 4'ün katlarını toplar.
